@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+# 🛒 Tienda Margarita
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicación web tipo e-commerce desarrollada con Vue 3.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Características
+
+- 🛍️ Visualización de productos
+- 🔎 Búsqueda en tiempo real
+- 📂 Filtro por categorías (Alcohol, Snacks, Panadería)
+- ❤️ Sistema de favoritos
+- 🛒 Carrito de compras interactivo
+- 🔄 Ordenamiento por precio
+- 🔗 Navegación por rutas dinámicas
+
+## 🧠 Tecnologías
+
+- Vue 3
+- Pinia
+- Vue Router
+- CSS moderno
+
+## 📦 Instalación
+
+```bash
+npm install
+npm run dev
+🌐 Deploy
+
+Proyecto desplegado en Vercel.
+
+Desarrollado por Diego Vasquez 🚀
